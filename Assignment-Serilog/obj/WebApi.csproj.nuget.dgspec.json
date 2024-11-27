@@ -1,0 +1,143 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Mukul Sharma\\Desktop\\Assignment-Serilog\\Assignment-Serilog\\WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Mukul Sharma\\Desktop\\Assignment-Serilog\\Assignment-Serilog\\WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mukul Sharma\\Desktop\\Assignment-Serilog\\Assignment-Serilog\\WebApi.csproj",
+        "projectName": "WebApi",
+        "projectPath": "C:\\Users\\Mukul Sharma\\Desktop\\Assignment-Serilog\\Assignment-Serilog\\WebApi.csproj",
+        "packagesPath": "C:\\Users\\Mukul Sharma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mukul Sharma\\Desktop\\Assignment-Serilog\\Assignment-Serilog\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mukul Sharma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Mukul Sharma\\Desktop\\Assignment-Serilog\\ClassLibrary1\\ClassLibrary1.csproj": {
+                "projectPath": "C:\\Users\\Mukul Sharma\\Desktop\\Assignment-Serilog\\ClassLibrary1\\ClassLibrary1.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mukul Sharma\\Desktop\\Assignment-Serilog\\ClassLibrary1\\ClassLibrary1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mukul Sharma\\Desktop\\Assignment-Serilog\\ClassLibrary1\\ClassLibrary1.csproj",
+        "projectName": "ClassLibrary1",
+        "projectPath": "C:\\Users\\Mukul Sharma\\Desktop\\Assignment-Serilog\\ClassLibrary1\\ClassLibrary1.csproj",
+        "packagesPath": "C:\\Users\\Mukul Sharma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mukul Sharma\\Desktop\\Assignment-Serilog\\ClassLibrary1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mukul Sharma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Serilog": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

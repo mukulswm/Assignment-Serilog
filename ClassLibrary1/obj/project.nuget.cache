@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jiYDHFebJiuENbW6/1+D4LrrojAOmxl2t2iaYxs8CXzgzvlckA/L2J7xz3aRCrr0ofm9BXR1zR9s7T9C9UK7yA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mukul Sharma\\Desktop\\Assignment-Serilog\\ClassLibrary1\\ClassLibrary1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mukul Sharma\\.nuget\\packages\\serilog\\4.1.0\\serilog.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
